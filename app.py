@@ -1,8 +1,3 @@
-
-Marina Oliveira
-8:19 AM (12 minutes ago)
-to me, lidiaothilia989@gmail.com, fabianyevellyn9, marcosalexandretorres26@gmail.com
-
 from flask import (
     Flask,
     render_template,
